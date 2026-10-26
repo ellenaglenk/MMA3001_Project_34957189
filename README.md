@@ -53,8 +53,8 @@ The project separates physical trees into training and
 held-out validation groups to prevent the same tree appearing
 in both groups.
 
-The original dataset must be provided separately. Do not
-assume it is included in this GitHub repository.
+The original dataset is provided as a Google Drive Link in the dataset page in this main branch. 
+Please save this dataset to your own Google Drive and update the setup tab of the Jupyter notebook to access the data. 
 
 ## 4. Software Environment
 
